@@ -1,0 +1,1374 @@
+[
+  {
+    "name": "Avocado & Egg Toast",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "bread",
+        70.0
+      ],
+      [
+        "avocado",
+        70.0
+      ],
+      [
+        "egg",
+        100.0
+      ],
+      [
+        "oil",
+        3.0
+      ]
+    ],
+    "method": "Toast the bread. Cook the eggs in the measured oil until set. Mash avocado onto the toast and top with eggs.",
+    "servings": 1
+  },
+  {
+    "name": "Banana Overnight Oats",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "oats",
+        50.0
+      ],
+      [
+        "milk",
+        150.0
+      ],
+      [
+        "banana",
+        100.0
+      ],
+      [
+        "honey",
+        8.0
+      ]
+    ],
+    "method": "Mix oats and milk and refrigerate overnight. Add sliced banana and honey before serving.",
+    "servings": 1
+  },
+  {
+    "name": "Strawberry Yogurt Bowl",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "yogurt",
+        200.0
+      ],
+      [
+        "berries",
+        120.0
+      ],
+      [
+        "oats",
+        25.0
+      ],
+      [
+        "almonds",
+        15.0
+      ]
+    ],
+    "method": "Spoon yogurt into a bowl. Add chopped strawberries, oats and almonds.",
+    "servings": 1
+  },
+  {
+    "name": "Spinach Omelette",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "egg",
+        120.0
+      ],
+      [
+        "spinach",
+        50.0
+      ],
+      [
+        "feta",
+        30.0
+      ],
+      [
+        "oil",
+        5.0
+      ]
+    ],
+    "method": "Wilt spinach in oil. Add beaten eggs and feta; cook until the eggs are set.",
+    "servings": 1
+  },
+  {
+    "name": "Apple Walnut Porridge",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "oats",
+        50.0
+      ],
+      [
+        "milk",
+        180.0
+      ],
+      [
+        "apple",
+        100.0
+      ],
+      [
+        "walnuts",
+        15.0
+      ]
+    ],
+    "method": "Simmer oats, milk and chopped apple until soft. Finish with walnuts.",
+    "servings": 1
+  },
+  {
+    "name": "Peanut Butter Banana Toast",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "bread",
+        70.0
+      ],
+      [
+        "peanutbutter",
+        25.0
+      ],
+      [
+        "banana",
+        80.0
+      ]
+    ],
+    "method": "Toast bread, spread with peanut butter and add sliced banana.",
+    "servings": 1
+  },
+  {
+    "name": "Menemen",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "egg",
+        100.0
+      ],
+      [
+        "tomato",
+        150.0
+      ],
+      [
+        "pepper",
+        60.0
+      ],
+      [
+        "onion",
+        30.0
+      ],
+      [
+        "oil",
+        7.0
+      ]
+    ],
+    "method": "Soften chopped onion and pepper in oil. Add tomato and simmer. Stir in eggs and cook until set.",
+    "servings": 1
+  },
+  {
+    "name": "Mushroom Scrambled Eggs",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "egg",
+        120.0
+      ],
+      [
+        "mushroom",
+        100.0
+      ],
+      [
+        "butter",
+        5.0
+      ],
+      [
+        "bread",
+        40.0
+      ]
+    ],
+    "method": "Cook sliced mushrooms in butter. Stir in eggs until set and serve with bread.",
+    "servings": 1
+  },
+  {
+    "name": "Blueberry Oat Pancakes",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "oats",
+        50.0
+      ],
+      [
+        "egg",
+        50.0
+      ],
+      [
+        "milk",
+        70.0
+      ],
+      [
+        "blueberries",
+        60.0
+      ],
+      [
+        "oil",
+        4.0
+      ]
+    ],
+    "method": "Blend oats, egg and milk. Fold in blueberries and cook small pancakes in the measured oil until cooked through.",
+    "servings": 1
+  },
+  {
+    "name": "Feta Breakfast Toast",
+    "category": "Breakfast",
+    "ingredients": [
+      [
+        "bread",
+        70.0
+      ],
+      [
+        "feta",
+        40.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "cucumber",
+        80.0
+      ]
+    ],
+    "method": "Toast the bread. Add feta and serve with sliced tomato and cucumber.",
+    "servings": 1
+  },
+  {
+    "name": "Greek Chickpea Salad",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "chickpeas",
+        150.0
+      ],
+      [
+        "cucumber",
+        100.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "feta",
+        35.0
+      ],
+      [
+        "oil",
+        8.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Combine drained chickpeas and chopped vegetables. Toss with feta, oil and lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Chicken Quinoa Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "chicken",
+        120.0
+      ],
+      [
+        "quinoa",
+        150.0
+      ],
+      [
+        "broccoli",
+        100.0
+      ],
+      [
+        "oil",
+        5.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Warm the cooked chicken, quinoa and broccoli. Arrange in a bowl and dress with oil and lemon.",
+    "servings": 1
+  },
+  {
+    "name": "Tuna Pasta Salad",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "tuna",
+        100.0
+      ],
+      [
+        "pasta",
+        150.0
+      ],
+      [
+        "corn",
+        60.0
+      ],
+      [
+        "cucumber",
+        80.0
+      ],
+      [
+        "yogurt",
+        50.0
+      ]
+    ],
+    "method": "Cool the cooked pasta. Toss with drained tuna, corn, cucumber and yogurt; serve chilled.",
+    "servings": 1
+  },
+  {
+    "name": "Lentil Garden Salad",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "lentils",
+        170.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "cucumber",
+        80.0
+      ],
+      [
+        "onion",
+        25.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Combine cooked lentils with diced vegetables. Dress with oil and lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Avocado Chicken Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "bread",
+        80.0
+      ],
+      [
+        "chicken",
+        100.0
+      ],
+      [
+        "avocado",
+        60.0
+      ],
+      [
+        "lettuce",
+        30.0
+      ],
+      [
+        "tomato",
+        50.0
+      ]
+    ],
+    "method": "Layer cooked sliced chicken, avocado, lettuce and tomato between the bread slices.",
+    "servings": 1
+  },
+  {
+    "name": "Mediterranean Bulgur Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "bulgur",
+        180.0
+      ],
+      [
+        "chickpeas",
+        100.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "pepper",
+        60.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Combine cooked bulgur and chickpeas with diced vegetables. Add oil and lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Kidney Bean Corn Salad",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "beans",
+        150.0
+      ],
+      [
+        "corn",
+        80.0
+      ],
+      [
+        "pepper",
+        70.0
+      ],
+      [
+        "onion",
+        25.0
+      ],
+      [
+        "oil",
+        6.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Mix drained beans and corn with diced pepper and onion. Dress with oil and lemon.",
+    "servings": 1
+  },
+  {
+    "name": "Egg & Potato Salad",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "egg",
+        100.0
+      ],
+      [
+        "potato",
+        180.0
+      ],
+      [
+        "yogurt",
+        60.0
+      ],
+      [
+        "cucumber",
+        70.0
+      ]
+    ],
+    "method": "Hard-boil the eggs and peel. Chop and mix with cooled boiled potatoes, yogurt and cucumber.",
+    "servings": 1
+  },
+  {
+    "name": "Salmon Rice Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "salmon",
+        120.0
+      ],
+      [
+        "rice",
+        160.0
+      ],
+      [
+        "cucumber",
+        80.0
+      ],
+      [
+        "avocado",
+        50.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Arrange cooked salmon and rice with cucumber and avocado. Finish with lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Hummus Vegetable Toast",
+    "category": "Lunch",
+    "ingredients": [
+      [
+        "chickpeas",
+        100.0
+      ],
+      [
+        "tahini",
+        15.0
+      ],
+      [
+        "lemon",
+        15.0
+      ],
+      [
+        "garlic",
+        3.0
+      ],
+      [
+        "bread",
+        70.0
+      ],
+      [
+        "carrot",
+        60.0
+      ]
+    ],
+    "method": "Blend chickpeas, tahini, lemon and garlic. Spread on toasted bread and top with grated carrot.",
+    "servings": 1
+  },
+  {
+    "name": "Chicken Broccoli Rice",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "chicken",
+        140.0
+      ],
+      [
+        "broccoli",
+        150.0
+      ],
+      [
+        "rice",
+        160.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "garlic",
+        4.0
+      ]
+    ],
+    "method": "Warm garlic in oil, then add cooked chicken, broccoli and rice. Toss until heated through.",
+    "servings": 1
+  },
+  {
+    "name": "Salmon & Sweet Potato",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "salmon",
+        140.0
+      ],
+      [
+        "sweetpotato",
+        200.0
+      ],
+      [
+        "broccoli",
+        120.0
+      ],
+      [
+        "oil",
+        5.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Warm cooked salmon, baked sweet potato and broccoli. Add measured oil and lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Tomato Lentil Pasta",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "pasta",
+        180.0
+      ],
+      [
+        "lentils",
+        120.0
+      ],
+      [
+        "tomato",
+        180.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "garlic",
+        4.0
+      ]
+    ],
+    "method": "Soften onion and garlic in oil. Simmer with chopped tomato and cooked lentils; toss with cooked pasta.",
+    "servings": 1
+  },
+  {
+    "name": "Beef & Vegetable Rice",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "beef",
+        120.0
+      ],
+      [
+        "rice",
+        160.0
+      ],
+      [
+        "pepper",
+        80.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        5.0
+      ]
+    ],
+    "method": "Soften pepper and onion in oil. Add the cooked beef and rice and heat through.",
+    "servings": 1
+  },
+  {
+    "name": "Chickpea Spinach Stew",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "chickpeas",
+        180.0
+      ],
+      [
+        "spinach",
+        100.0
+      ],
+      [
+        "tomato",
+        160.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        8.0
+      ],
+      [
+        "water",
+        100.0
+      ]
+    ],
+    "method": "Soften onion in oil. Add tomato, chickpeas and water; simmer, then stir in spinach until wilted.",
+    "servings": 1
+  },
+  {
+    "name": "Mushroom Pea Pasta",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "pasta",
+        180.0
+      ],
+      [
+        "mushroom",
+        120.0
+      ],
+      [
+        "peas",
+        80.0
+      ],
+      [
+        "milk",
+        80.0
+      ],
+      [
+        "oil",
+        7.0
+      ]
+    ],
+    "method": "Cook mushrooms in oil. Add peas and milk, simmer briefly and toss with cooked pasta.",
+    "servings": 1
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "pepper",
+        180.0
+      ],
+      [
+        "rice",
+        130.0
+      ],
+      [
+        "beef",
+        90.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "onion",
+        30.0
+      ],
+      [
+        "oil",
+        5.0
+      ]
+    ],
+    "method": "Mix cooked rice and beef with diced tomato and onion. Fill halved peppers, brush with oil and bake at 190°C until tender.",
+    "servings": 1
+  },
+  {
+    "name": "Chicken Zucchini Skillet",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "chicken",
+        140.0
+      ],
+      [
+        "zucchini",
+        180.0
+      ],
+      [
+        "tomato",
+        120.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        8.0
+      ]
+    ],
+    "method": "Soften onion and zucchini in oil. Add tomato and cooked chicken; simmer until hot throughout.",
+    "servings": 1
+  },
+  {
+    "name": "Lentil Sweet Potato Bowl",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "lentils",
+        170.0
+      ],
+      [
+        "sweetpotato",
+        180.0
+      ],
+      [
+        "spinach",
+        60.0
+      ],
+      [
+        "tahini",
+        15.0
+      ],
+      [
+        "lemon",
+        15.0
+      ]
+    ],
+    "method": "Wilt spinach. Serve with warm lentils and baked sweet potato; drizzle with tahini and lemon.",
+    "servings": 1
+  },
+  {
+    "name": "Broccoli Cheddar Potato",
+    "category": "Dinner",
+    "ingredients": [
+      [
+        "potato",
+        250.0
+      ],
+      [
+        "broccoli",
+        140.0
+      ],
+      [
+        "cheddar",
+        40.0
+      ],
+      [
+        "yogurt",
+        40.0
+      ]
+    ],
+    "method": "Split the cooked potato and top with broccoli and cheddar. Heat until cheese melts and finish with yogurt.",
+    "servings": 1
+  },
+  {
+    "name": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "tomato",
+        300.0
+      ],
+      [
+        "onion",
+        50.0
+      ],
+      [
+        "carrot",
+        60.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "water",
+        180.0
+      ]
+    ],
+    "method": "Soften onion and carrot in oil. Add tomatoes and water, simmer until tender and blend.",
+    "servings": 1
+  },
+  {
+    "name": "Lentil Vegetable Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "lentils",
+        180.0
+      ],
+      [
+        "carrot",
+        70.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "tomato",
+        100.0
+      ],
+      [
+        "oil",
+        6.0
+      ],
+      [
+        "water",
+        220.0
+      ]
+    ],
+    "method": "Soften onion and carrot in oil. Add cooked lentils, tomato and water; simmer and blend if desired.",
+    "servings": 1
+  },
+  {
+    "name": "Chicken Rice Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "chicken",
+        100.0
+      ],
+      [
+        "rice",
+        100.0
+      ],
+      [
+        "carrot",
+        70.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        4.0
+      ],
+      [
+        "water",
+        300.0
+      ]
+    ],
+    "method": "Soften chopped vegetables in oil. Add water and simmer until tender; add cooked chicken and rice and heat through.",
+    "servings": 1
+  },
+  {
+    "name": "Broccoli Yogurt Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "broccoli",
+        220.0
+      ],
+      [
+        "potato",
+        100.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "yogurt",
+        80.0
+      ],
+      [
+        "oil",
+        5.0
+      ],
+      [
+        "water",
+        200.0
+      ]
+    ],
+    "method": "Soften onion in oil. Simmer with broccoli, cooked potato and water; blend, cool slightly and stir in yogurt.",
+    "servings": 1
+  },
+  {
+    "name": "Chickpea Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "chickpeas",
+        170.0
+      ],
+      [
+        "tomato",
+        200.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "garlic",
+        4.0
+      ],
+      [
+        "oil",
+        7.0
+      ],
+      [
+        "water",
+        200.0
+      ]
+    ],
+    "method": "Soften onion and garlic in oil. Add tomato, cooked chickpeas and water and simmer until flavors combine.",
+    "servings": 1
+  },
+  {
+    "name": "Mushroom Milk Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "mushroom",
+        200.0
+      ],
+      [
+        "milk",
+        150.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "flour",
+        10.0
+      ],
+      [
+        "butter",
+        7.0
+      ],
+      [
+        "water",
+        150.0
+      ]
+    ],
+    "method": "Cook onion and mushrooms in butter. Stir in flour, gradually add milk and water, and simmer until thickened.",
+    "servings": 1
+  },
+  {
+    "name": "Vegetable Bean Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "beans",
+        140.0
+      ],
+      [
+        "carrot",
+        70.0
+      ],
+      [
+        "zucchini",
+        100.0
+      ],
+      [
+        "tomato",
+        150.0
+      ],
+      [
+        "oil",
+        6.0
+      ],
+      [
+        "water",
+        220.0
+      ]
+    ],
+    "method": "Soften chopped carrot and zucchini in oil. Add tomato, cooked beans and water; simmer until tender.",
+    "servings": 1
+  },
+  {
+    "name": "Pea & Potato Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "peas",
+        180.0
+      ],
+      [
+        "potato",
+        120.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "oil",
+        5.0
+      ],
+      [
+        "water",
+        220.0
+      ]
+    ],
+    "method": "Soften onion in oil. Add cooked peas, potato and water; simmer and blend until smooth.",
+    "servings": 1
+  },
+  {
+    "name": "Spinach Lentil Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "spinach",
+        120.0
+      ],
+      [
+        "lentils",
+        170.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "lemon",
+        15.0
+      ],
+      [
+        "oil",
+        6.0
+      ],
+      [
+        "water",
+        220.0
+      ]
+    ],
+    "method": "Soften onion in oil. Add cooked lentils and water, simmer, then add spinach. Finish with lemon juice.",
+    "servings": 1
+  },
+  {
+    "name": "Sweet Potato Carrot Soup",
+    "category": "Soup",
+    "ingredients": [
+      [
+        "sweetpotato",
+        180.0
+      ],
+      [
+        "carrot",
+        100.0
+      ],
+      [
+        "onion",
+        40.0
+      ],
+      [
+        "milk",
+        80.0
+      ],
+      [
+        "oil",
+        6.0
+      ],
+      [
+        "water",
+        180.0
+      ]
+    ],
+    "method": "Soften onion and carrot in oil. Add baked sweet potato, milk and water; simmer until tender and blend.",
+    "servings": 1
+  },
+  {
+    "name": "Banana Peanut Smoothie",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "banana",
+        120.0
+      ],
+      [
+        "milk",
+        200.0
+      ],
+      [
+        "peanutbutter",
+        20.0
+      ]
+    ],
+    "method": "Blend banana, milk and peanut butter until smooth.",
+    "servings": 1
+  },
+  {
+    "name": "Berry Yogurt Smoothie",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "berries",
+        140.0
+      ],
+      [
+        "yogurt",
+        150.0
+      ],
+      [
+        "milk",
+        100.0
+      ],
+      [
+        "honey",
+        8.0
+      ]
+    ],
+    "method": "Blend strawberries, yogurt, milk and honey until smooth.",
+    "servings": 1
+  },
+  {
+    "name": "Apple Almond Yogurt",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "apple",
+        120.0
+      ],
+      [
+        "yogurt",
+        150.0
+      ],
+      [
+        "almonds",
+        20.0
+      ]
+    ],
+    "method": "Dice the apple and spoon over yogurt. Add chopped almonds.",
+    "servings": 1
+  },
+  {
+    "name": "Hummus & Carrot Sticks",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "chickpeas",
+        100.0
+      ],
+      [
+        "tahini",
+        15.0
+      ],
+      [
+        "lemon",
+        15.0
+      ],
+      [
+        "garlic",
+        3.0
+      ],
+      [
+        "carrot",
+        120.0
+      ],
+      [
+        "water",
+        15.0
+      ]
+    ],
+    "method": "Blend chickpeas, tahini, lemon, garlic and water. Serve with carrot sticks.",
+    "servings": 1
+  },
+  {
+    "name": "Walnut Honey Yogurt",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "yogurt",
+        170.0
+      ],
+      [
+        "walnuts",
+        20.0
+      ],
+      [
+        "honey",
+        10.0
+      ]
+    ],
+    "method": "Spoon yogurt into a bowl and top with walnuts and honey.",
+    "servings": 1
+  },
+  {
+    "name": "Strawberry Oat Smoothie",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "berries",
+        150.0
+      ],
+      [
+        "oats",
+        30.0
+      ],
+      [
+        "milk",
+        180.0
+      ],
+      [
+        "banana",
+        60.0
+      ]
+    ],
+    "method": "Blend strawberries, oats, milk and banana until smooth.",
+    "servings": 1
+  },
+  {
+    "name": "Avocado Feta Dip",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "avocado",
+        80.0
+      ],
+      [
+        "feta",
+        35.0
+      ],
+      [
+        "yogurt",
+        50.0
+      ],
+      [
+        "lemon",
+        10.0
+      ],
+      [
+        "cucumber",
+        120.0
+      ]
+    ],
+    "method": "Mash avocado with feta, yogurt and lemon. Serve with cucumber sticks.",
+    "servings": 1
+  },
+  {
+    "name": "Banana Oat Cookies",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "banana",
+        100.0
+      ],
+      [
+        "oats",
+        45.0
+      ],
+      [
+        "peanutbutter",
+        15.0
+      ]
+    ],
+    "method": "Mash banana and mix with oats and peanut butter. Form small cookies and bake at 180°C for about 15 minutes.",
+    "servings": 1
+  },
+  {
+    "name": "Cheddar Tomato Toast",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "bread",
+        50.0
+      ],
+      [
+        "cheddar",
+        30.0
+      ],
+      [
+        "tomato",
+        80.0
+      ]
+    ],
+    "method": "Top bread with sliced tomato and cheddar. Grill until cheese melts and bread is toasted.",
+    "servings": 1
+  },
+  {
+    "name": "Blueberry Almond Bowl",
+    "category": "Snack",
+    "ingredients": [
+      [
+        "blueberries",
+        100.0
+      ],
+      [
+        "yogurt",
+        170.0
+      ],
+      [
+        "almonds",
+        20.0
+      ],
+      [
+        "honey",
+        5.0
+      ]
+    ],
+    "method": "Top yogurt with blueberries, almonds and a drizzle of honey.",
+    "servings": 1
+  }
+]
